@@ -1,0 +1,7 @@
+name: PrivateMessage
+version: '${project.version}'
+main: com.juan.privatemessage.Main
+api-version: '1.20'
+commands:
+  message:
+  reply:
